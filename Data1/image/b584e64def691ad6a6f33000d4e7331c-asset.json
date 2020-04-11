@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "b584e64def691ad6a6f33000d4e7331c",
+        "name": "TCGA_DU_8167_19970402_13.jpeg",
+        "path": "file:/Users/ryan/Desktop/6895%20pj/lgg-mri-segmentation/Data1/image/TCGA_DU_8167_19970402_13.jpeg",
+        "size": {
+            "width": 256,
+            "height": 256
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "EsDviX_HW",
+            "type": "RECTANGLE",
+            "tags": [
+                "abnormal part"
+            ],
+            "boundingBox": {
+                "height": 36.11811926605505,
+                "width": 29.59862385321101,
+                "left": 81.5217889908257,
+                "top": 99.02293577981652
+            },
+            "points": [
+                {
+                    "x": 81.5217889908257,
+                    "y": 99.02293577981652
+                },
+                {
+                    "x": 111.12041284403671,
+                    "y": 99.02293577981652
+                },
+                {
+                    "x": 111.12041284403671,
+                    "y": 135.14105504587155
+                },
+                {
+                    "x": 81.5217889908257,
+                    "y": 135.14105504587155
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "ff9cd7731cfa8a24ec163543e7debd46",
+        "name": "TCGA_DU_7294_19890104_25.jpeg",
+        "path": "file:/Users/ryan/Desktop/6895%20pj/lgg-mri-segmentation/Data1/image/TCGA_DU_7294_19890104_25.jpeg",
+        "size": {
+            "width": 256,
+            "height": 256
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "EGY7-Lomx",
+            "type": "RECTANGLE",
+            "tags": [
+                "abnormal part"
+            ],
+            "boundingBox": {
+                "height": 39.36353211009175,
+                "width": 39.12958715596331,
+                "left": 92.89105504587157,
+                "top": 76.60435779816514
+            },
+            "points": [
+                {
+                    "x": 92.89105504587157,
+                    "y": 76.60435779816514
+                },
+                {
+                    "x": 132.02064220183487,
+                    "y": 76.60435779816514
+                },
+                {
+                    "x": 132.02064220183487,
+                    "y": 115.9678899082569
+                },
+                {
+                    "x": 92.89105504587157,
+                    "y": 115.9678899082569
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
