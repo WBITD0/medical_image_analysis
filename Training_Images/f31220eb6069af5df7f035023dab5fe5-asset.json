@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "f31220eb6069af5df7f035023dab5fe5",
+        "name": "TCGA_DU_7306_19930512_18.jpeg",
+        "path": "file:/Users/ryan/Desktop/6895%20pj/lgg-mri-segmentation/Data1/image/TCGA_DU_7306_19930512_18.jpeg",
+        "size": {
+            "width": 256,
+            "height": 256
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "pnMh0z4cx",
+            "type": "RECTANGLE",
+            "tags": [
+                "abnormal part"
+            ],
+            "boundingBox": {
+                "height": 65.4197247706422,
+                "width": 42.9598623853211,
+                "left": 53.28784403669725,
+                "top": 98.75
+            },
+            "points": [
+                {
+                    "x": 53.28784403669725,
+                    "y": 98.75
+                },
+                {
+                    "x": 96.24770642201835,
+                    "y": 98.75
+                },
+                {
+                    "x": 96.24770642201835,
+                    "y": 164.1697247706422
+                },
+                {
+                    "x": 53.28784403669725,
+                    "y": 164.1697247706422
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
